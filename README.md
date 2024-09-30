@@ -1,6 +1,6 @@
 # 2024 PARIS OLYMPIC Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/42463b67-9a74-41bd-8eaa-fd26ce90f9c6/8d36de2c07723ecfbe31?experience=power-bi
+#### Dashboard Link : https://app.powerbi.com/groups/me/reports/42463b67-9a74-41bd-8eaa-fd26ce90f9c6/8d36de2c07723ecfbe31?experience=power-bi
 
 ## Problem Statement
 
@@ -30,3 +30,9 @@ First, we need to set up the Kaggle API to access and download datasets.
 - Sign up on Kaggle
 - Create an API Token: In your Kaggle account settings, go to the “API” section and click “Create New API Token.” This will download a kaggle.json file containing your credentials.
 - Save the API Token: Place the kaggle.json file in a secure directory on your machine, where it will be used to authenticate the Kaggle API.
+
+## Python Environment Setup
+Make sure you have Python installed along with the necessary libraries:
+```bash
+  pip install kaggle pandas
+```
