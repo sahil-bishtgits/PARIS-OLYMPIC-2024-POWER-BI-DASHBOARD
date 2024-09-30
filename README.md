@@ -146,6 +146,49 @@ With the data loaded into Power BI, we can now create compelling visualizations 
 ### Visual 5: Medal Trends Over Time
 - Type: Line Chart
 - Fields: Use the medals table to display trends in medal wins over time, broken down by country or sport. This visualization offers insights into how countries’ performances have changed across different Olympics.
+
+### 1. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/PARIS-OLYMPIC-2024-POWER-BI-DASHBOARD/blob/main/Screenshot%20(48).png)
+
+- Home page of report , contain overlay of the repoert.
+
+### 2. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/PARIS-OLYMPIC-2024-POWER-BI-DASHBOARD/blob/main/Screenshot%20(49).png)
+
+The data that are shown on this pages are
+- key feature
+- Total number of medals won by each country
+- total no of medal won by both gender and to which country do they belong
+- AND number of country that partcipated , number of athletes that partcipated etc
+
+### 3. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/PARIS-OLYMPIC-2024-POWER-BI-DASHBOARD/blob/main/Screenshot%20(50).png)
+
+The data that are shown on this pages are
+- Gender wise medals won in each category
+- Age category Which won the most number of medals
+
+### 4. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/PARIS-OLYMPIC-2024-POWER-BI-DASHBOARD/blob/main/Screenshot%20(51).png)
+
+This page of report consist of a json map 
+- The heat map shows the medal won by the country
+- It gives a better overview of how sucessful was each country in this year olympic
+
+### 5. Snapshot of Dashboard 
+
+![dashboard_snapo](https://github.com/sahil-bishtgits/PARIS-OLYMPIC-2024-POWER-BI-DASHBOARD/blob/main/Screenshot%20(52).png)
+
+This page of report shows the historical record of olympic
+- The medal distribution across across all the past olympic
+- The data also have a country filter which can be used to sort it 
+
+
+
 ## Conclusion
 By leveraging Python and Power BI, we’ve efficiently downloaded, organized, and visualized the Paris 2024 Olympic dataset. This project demonstrates the power of data analysis and visualization in understanding the dynamics of a global event like the Olympics.
 
