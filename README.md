@@ -1,4 +1,4 @@
- #                                 2024 PARIS OLYMPIC Dashboard
+   #                                   2024 PARIS OLYMPIC Dashboard
 
  ![olympic LOGO](https://github.com/sahil-bishtgits/PARIS-OLYMPIC-2024-POWER-BI-DASHBOARD/blob/main/pngimg.com%20-%20olympic_rings_PNG6.png)
 
